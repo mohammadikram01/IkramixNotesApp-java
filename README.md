@@ -115,3 +115,4 @@ IkramixNotesApp/
 License
 
 This project is intended for personal learning and portfolio use.
+
